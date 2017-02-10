@@ -11,7 +11,7 @@
 
 	//comparaison des deux résultats
    	echo stockList($b, $c);
-   	echo "<br>Compaire to : <br>".$res
+   	echo "<br>Compaire to : <br>".$res;
 
 	//******fin test********/
  ?>
